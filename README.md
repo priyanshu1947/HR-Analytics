@@ -12,49 +12,58 @@
 
 **Attendance Key**
 
- **P:** Present
- **PL:** Paid Leave
- **SL:** Sick Leave
- **HPL:** Half day Paid Leave
- **HSL:** Half day Sick Leave
- **WFH:** Work from Home
- **FFL:** Floating Festival Leave
- **HFFL:** Half Day Floating Festival Leave
- **BL:** Birthday Leave
- **LWP:** Leave Without Pay
- **HLWP:** Half day Leave Without Pay
- **BRL:** Bereavement Leave
- **HBRL:** Half Bereavement Leave
- **HWFH**: Half Work From Home
- **WO:** Weekly Off
- **HO:** Holiday Off
- **ML**: Menstrual Leave
- **HML:** Half Day Menstrual Leave
+    P: Present
+    PL: Paid Leave
+    SL: Sick Leave
+    HPL: Half day Paid Leave
+    HSL: Half day Sick Leave
+    WFH: Work from Home
+    FFL: Floating Festival Leave
+    HFFL: Half Day Floating Festival Leave
+    BL: Birthday Leave
+    LWP: Leave Without Pay
+    HLWP: Half day Leave Without Pay
+    BRL: Bereavement Leave
+    HBRL: Half Bereavement Leave
+    HWFH: Half Work From Home
+    WO: Weekly Off
+    HO: Holiday Off
+    ML: Menstrual Leave
+    HML: Half Day Menstrual Leave
 
 **Data Description**
+
 The data is organized in a tabular format with columns representing each day of April. The information includes:
 
 **Measures and Metrics**
 
 **Key Measures**
+
   **Attendance%:** Percentage of total working days an employee was present.
   
 **Metrics**
 
-  **Count:** The total count of employees.
-  **HFWH COUNT:** Count of employees on Half Work From Home.
-  **OFFICE WORKING DAYS:** Total working days in the office.
-  **Present days:** Total days an employee was present.
-  **SL%:** Percentage of Sick Leave days.
-  **SL count:** Count of Sick Leave days.
-  **WFH%:** Percentage of Work from Home days.
-  **WFH Count:** Count of Work from Home days.
+    **Count:** The total count of employees.
 
-**Employee Code**
-**Name**
-  Daily attendance marked by codes (P, PL, SL, etc.)
-  Total Present Days(TPD)
-  Count of specific leave types (P, WFH, PL, SL, etc.)
+     **HFWH COUNT:** Count of employees on Half Work From Home.
+
+     **OFFICE WORKING DAYS:** Total working days in the office.
+
+    **Present days:** Total days an employee was present.
+
+    **SL%:** Percentage of Sick Leave days.
+
+    **SL count:** Count of Sick Leave days.
+
+    **WFH%:** Percentage of Work from Home days.
+
+    **WFH Count:** Count of Work from Home days.
+
+**Some Code & names**
+
+    Daily attendance marked by codes (P, PL, SL, etc.)
+    Total Present Days(TPD)
+    Count of specific leave types (P, WFH, PL, SL, etc.)
 
 **Steps Followed**
 
@@ -65,21 +74,23 @@ The data is organized in a tabular format with columns representing each day of 
 **Insights:**
   **Derived insights into:**
 
-    Total Present Days
-    Distribution of different leave types
-    Weekly Offs and Holidays
-    Menstrual Leave trends
-    Dashboard
+    * Total Present Days
+    * Distribution of different leave types
+    * Weekly Offs and Holidays
+    * Menstrual Leave trends
+    * Dashboard
     
 ![image](https://github.com/priyanshu1947/HR-Analytics/assets/70458921/a61e11ef-b638-48b3-b198-cd27fdcefcca)
 
-**Additional Insights**
-    **Leave Distribution:**
+**Additional Insights:**
+
+**Leave Distribution:**
+
             Provided a breakdown of the distribution of different leave types.
             
 **Attendance Trends:**
 
-   Identified patterns in employee attendance throughout the month.
+    Identified patterns in employee attendance throughout the month.
    
 **Conclusion**
 
