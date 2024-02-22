@@ -12,24 +12,24 @@
 
 **Attendance Key**
 
-**P:** Present
-**PL:** Paid Leave
-**SL:** Sick Leave
-**HPL:** Half day Paid Leave
-**HSL:** Half day Sick Leave
-**WFH:** Work from Home
-**FFL:** Floating Festival Leave
-**HFFL:** Half Day Floating Festival Leave
-****BL:** Birthday Leave
-LWP:** Leave Without Pay
-**HLWP:** Half day Leave Without Pay
-**BRL:** Bereavement Leave
-**HBRL:** Half Bereavement Leave
-**HWFH**: Half Work From Home
-**WO:** Weekly Off
-**HO:** Holiday Off
-**ML**: Menstrual Leave
-**HML:** Half Day Menstrual Leave
+ **P:** Present
+ **PL:** Paid Leave
+ **SL:** Sick Leave
+ **HPL:** Half day Paid Leave
+ **HSL:** Half day Sick Leave
+ **WFH:** Work from Home
+ **FFL:** Floating Festival Leave
+ **HFFL:** Half Day Floating Festival Leave
+ **BL:** Birthday Leave
+ **LWP:** Leave Without Pay
+ **HLWP:** Half day Leave Without Pay
+ **BRL:** Bereavement Leave
+ **HBRL:** Half Bereavement Leave
+ **HWFH**: Half Work From Home
+ **WO:** Weekly Off
+ **HO:** Holiday Off
+ **ML**: Menstrual Leave
+ **HML:** Half Day Menstrual Leave
 
 **Data Description**
 The data is organized in a tabular format with columns representing each day of April. The information includes:
