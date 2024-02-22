@@ -86,7 +86,7 @@ The data is organized in a tabular format with columns representing each day of 
 
 **Leave Distribution:**
 
-            Provided a breakdown of the distribution of different leave types.
+     Provided a breakdown of the distribution of different leave types.
             
 **Attendance Trends:**
 
