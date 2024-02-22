@@ -3,10 +3,12 @@
 ![image](https://github.com/priyanshu1947/HR-Analytics/assets/70458921/9440937d-f079-4720-823b-2eee026dbd8c)
 
 **Project Overview**
-Our HR Data Analytics project aims to provide insights into employee leave status and attendance patterns for the month of April. The dataset includes information about employee codes, names, and their attendance records categorized by different leave types. The primary goal is to offer a comprehensive analysis of employee attendance, helping HR professionals make informed decisions and improve leave management strategies.
+
+ Our HR Data Analytics project aims to provide insights into employee leave status and attendance patterns for the month of April. The dataset includes information about employee codes, names, and their attendance records categorized by different leave types. The primary goal is to offer a comprehensive analysis of employee attendance, helping HR professionals make informed decisions and improve leave management strategies.
 
 **Problem Statement**
-Efficient leave management is crucial for organizational productivity and employee well-being. This project addresses the need to analyze attendance data, identify patterns, and derive actionable insights for better decision-making. By understanding leave trends and employee presence, HR can optimize resource allocation and ensure a healthy work-life balance.
+
+ Efficient leave management is crucial for organizational productivity and employee well-being. This project addresses the need to analyze attendance data, identify patterns, and derive actionable insights for better decision-making. By understanding leave trends and employee presence, HR can optimize resource allocation and ensure a healthy work-life balance.
 
 **Attendance Key**
 
